@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529969217598",
+    "project_id": "signn-de7f4",
+    "storage_bucket": "signn-de7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529969217598:android:491cfb6fb86395ee01516f",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnlGjCvra2JpPYI-smT47Wfa-gMBlAQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
